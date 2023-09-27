@@ -1,5 +1,6 @@
-# Our Technology Stack: Powering Innovation with Python, Django, and React.js
-
+<!--- 
+  title: Our Technology Stack: Powering Innovation with Python, Django, and React.js
+-->
 
 **Our Technology Stack:**
 
